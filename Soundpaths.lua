@@ -23,6 +23,7 @@ LSM:Register("sound", "|cFFFF0000Riptide|r", [[Interface\Addons\SharedMedia_Groo
 LSM:Register("sound", "|cFFFF0000Wellspring|r", [[Interface\Addons\SharedMedia_Grooly\sound\Wellspring.ogg]])
 LSM:Register("sound", "|cFFFF0000EarthShield|r", [[Interface\Addons\SharedMedia_Grooly\sound\EarthShield.ogg]])
 LSM:Register("sound", "|cFFFF0000UnleashLife|r", [[Interface\Addons\SharedMedia_Grooly\sound\UnleashLife.ogg]])
+LSM:Register("sound", "|cFFFF0000Innervate|r", [[Interface\Addons\SharedMedia_Grooly\sound\Innervate.ogg]])
 
 -- -----
 --   STATUSBAR
